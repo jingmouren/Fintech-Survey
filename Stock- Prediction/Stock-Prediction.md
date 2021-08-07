@@ -12,6 +12,46 @@
 
 --2019--
 
+**CLVSA: A Convolutional LSTM Based Variational Sequence-to-Sequence Model with Attention for Predicting Trends of Financial Markets**. Jia Wang(University of Massachusetts Lowell), Tong Sun, Benyuan Liu, Yu Cao, Hongwei Zhu. IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0514)
+
+> input features(**Historical Prices**)
+
+**Novel Deep Learning Model with CNN and Bi-Directional LSTM for Improved Stock Market Index Prediction**. Jithin Eapen(California State University), Doina Bein, Abhishek Verma. IEEE CCWC 2019. [paper](https://ieeexplore.ieee.org/document/8666592)
+
+> input features(**Historical Prices**)
+
+**Financial time series forecasting model based on CEEMDAN and LSTM**. Jian Cao(Sichuan University), Zhi Li, Jian Li. Physica A: Statistical Mechanics and its Applications 2019. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0378437118314985)
+
+> input features(**Historical Prices**)
+
+**Deep learning-based feature engineering for stock price movement prediction**. Wen Long(UCAS), Zhichen Lu, Lingxiao Cui. Knowledge-Based Systems 2019. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705118305264)
+
+> input features(**Historical Prices**)
+
+**Stock Market Prediction Based on Generative Adversarial Network**. Kang Zhang(Ocean University of China), Guoqiang, Zhong, Junyu Dong, Shengke Wang, YongWang. Procedia Computer Science 2019. [paper](https://www.sciencedirect.com/science/article/pii/S1877050919302789)
+
+> input features(**Historical Prices**)
+
+**A deep increasing–decreasing-linear neural network for financial time series prediction**. Ricardo de A. Araújo(Instituto Federal do Sertão Pernambucano), Nadia Nedjah, Adriano L.I. Oliveira, Silvio R. de L. Meira. Neurocomputing 2019. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231219303194)
+
+> input features(**Historical Prices**)
+
+**Stock price forecasting model based on modified convolution neural network and financial time series analysis**. Jiasheng Cao(USTC), Jinghan Wang. International Journal of Communication Systems 2019. [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.3987)
+
+> input features(**Historical Prices**)
+
+**Financial series prediction using Attention LSTM**. Sangyeon Kim(Seoul National University), Myungjoo Kang. arXiv 2019. [paper](https://arxiv.org/abs/1902.10877)
+
+> input features(**Historical Prices**)
+
+**Forecasting the Dubai financial market with a combination of momentum effect with a deep belief network**. Andreas Karathanasopoulos(University of Dubai), Mohammed Osman. Journal of Forecasting 2019. [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/for.2560)
+
+> input features(**Historical Prices**)
+
+**Exploring the attention mechanism in LSTM-based Hong Kong stock price movement prediction**. Shun Chen(Huazhong University of Science and Technology), Lei Ge. Quantitative Finance 2019. [paper](https://www.tandfonline.com/doi/abs/10.1080/14697688.2019.1622287)
+
+> 
+
 **LSTM with Wavelet Transform Based Data Preprocessing for Stock Price Prediction**. Xiaodan Liang(Tianjin Polytechnic University), Zhaodi Ge, Liling Sun, Maowei He, Hanning Chen. Mathematical Problems in Engineering 2019. [paper](https://www.hindawi.com/journals/mpe/2019/1340174/)
 
 > input features(**Historical Prices**)
@@ -98,6 +138,38 @@
 
 --2018--
 
+**A Comparison of ARIMA and LSTM in Forecasting Time Series**. Sima Siami-Namini, Neda Tavakoli(Texas Tech University), Akbar Siami Namin. IEEE ICMLA 2018. [paper](https://ieeexplore.ieee.org/document/8614252)
+
+> input features(**Historical Prices**)
+
+**Wavelet Neural Network Prediction Method of Stock Price Trend Based on Rough Set Attribute Reduction**. LeiLei(Henan University of Economics and Law). Applied Soft Computing 2018. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494617305689)
+
+> input features(**Historical Prices**)
+
+**Stock Price Prediction Using Time Convolution Long Short-Term Memory Network**. Xukuan Zhan(Huazhong University of Science and Technology), Yuhua Li, Ruixuan Li, Xiwu Gu, Olivier Habimana, Haozhao Wang. International Conference on Knowledge Science, Engineering and Management 2018. [paper](https://link.springer.com/chapter/10.1007/978-3-319-99365-2_41)
+
+> input features(**Historical Prices**)
+
+**Hybrid Deep Learning Model for Stock Price Prediction**. Mohammad Asiful Hossain(University of Manitoba), Rezaul Karim, Ruppa Thulasiram, Neil D. B. Bruce, Yang Wang. IEEE SSCI 2019. [paper](https://ieeexplore.ieee.org/document/8628641)
+
+> input features(**Historical Prices**)
+
+**A Comparison of LSTMs and Attention Mechanisms for Forecasting Financial Time Series**. Thomas Hollis(UToronto), Antoine Viscardi, Seung Eun Yi. arXiv 2018. [paper](https://arxiv.org/abs/1812.07699)
+
+> input features(**Historical Prices**)
+
+**Which Artificial Intelligence Algorithm Better Predicts the Chinese Stock Market?**. Lin Chen(Northwestern Polytechnical University), Zhilin Qiao, Minggang Wang, Chao Wang, Ruijin Du, Harry Eugene Stanley. IEEE Access 2018. [paper](https://ieeexplore.ieee.org/document/8419702)
+
+> input features(**Historical Prices**)
+
+**Temporal Attention augmented Bilinear Network for Financial Time-Series Data Analysis**. Dat Thanh Tran(Tampere University of Technology), Alexandros Iosifidis, Juho Kanniainen, Moncef Gabbouj. IEEE TNNLS 2018. [paper](https://arxiv.org/abs/1712.00975)
+
+> input features(**Historical Prices**)
+
+**An innovative neural network approach for stock market prediction**. Xiongwen Pang(South China Normal University), Yanqiang Zhou, Pan Wang, Weiwei Lin, Victor Chang. The Journal of Supercomputing 2018. [paper](https://link.springer.com/article/10.1007/s11227-017-2228-y)
+
+> input features(**Historical Prices**)
+
 **Deep learning with long short-term memory networks for financial market predictions**. Thomas Fischer(University of Erlangen-Nürnberg), Christopher Krauss.  European Journal of Operational Research 2018. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0377221717310652)
 
 > input features(**Historical Prices**)
@@ -126,9 +198,33 @@
 
 > a sentiment Stock2Vec embedding model
 
+**Adaboost-based long short-term memory ensemble learning approach for financial time series forecasting**. Yungao Wu, Jianwei Gao. Current Science 2018. [paper](https://web.a.ebscohost.com/abstract?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=00113891&AN=130595134&h=NWo4AX0aOjEqDNW2wi9%2frTS8Rw7uapEeyC0V21XABK%2f2teFcGaulH03onoHQS7W%2bOmxgbunIbpp5TjB9EK%2bGrw%3d%3d&crl=c&resultNs=AdminWebAuth&resultLocal=ErrCrlNotAuth&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d00113891%26AN%3d130595134)
+
+> input features(**Historical Prices**)
+
 --2017--
 
+**Stock Price Prediction via Discovering Multi-Frequency Trading Patterns**. Liheng Zhang(University of Central Florida), Charu Aggarwal, Guo-Jun Qi. KDD 2017. [paper](https://dl.acm.org/doi/10.1145/3097983.3098117)
+
+> input features(**Historical Prices**)
+
 **A dual-stage attention-based recurrent neural network for time series prediction**. Yao Qin(UCSD), Dongjin Song, Haifeng Cheng, Wei Cheng, Guofei Jiang, Garrison W. Cottrell. IJCAI 2017. [paper](https://dl.acm.org/doi/10.5555/3172077.3172254)
+
+> input features(**Historical Prices**)
+
+**Deep learning networks for stock market analysis and prediction: Methodology, data representations, and case studies**. Eunsuk Chong(Seoul National University), Chulwoo Han, Frank C. Park. Expert Systems with Applications 2017. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417417302750)
+
+> input features(**Historical Prices**)
+
+**Data Augmentation Based Stock Trend Prediction Using Self-organising Map**. Jiayi Zhang(BUAA), Wenge Rong, Qiubin Liang, Haonan Sun, Zhang Xiong. International Conference on Neural Information Processing 2017. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-70096-0_92)
+
+> input features(**Historical Prices**)
+
+**Stock price prediction using LSTM, RNN and CNN-sliding window model**. Sreelekshmy Selvin(Amrita University), R Vinayakumar, E. A Gopalakrishnan, Vijay Krishna Menon, K. P. Soman. IEEE ICACCI 2017. [paper](https://ieeexplore.ieee.org/document/8126078)
+
+> input features(**Historical Prices**)
+
+**Forecasting Stock Prices from the Limit Order Book Using Convolutional Neural Networks**. Avraam Tsantekidis(Tampere University of Technology), Nikolaos Passalis, Anastasios Tefas, Juho Kanniainen, Moncef Gabbouj, Alexandros Iosifidis. IEEE CBI 2017. [paper](https://ieeexplore.ieee.org/document/8010701)
 
 > input features(**Historical Prices**)
 
@@ -175,6 +271,10 @@
 **Deep learning for event-driven stock prediction**. Xiao Ding(HIT), Yue Zhang, Ting Liu, Junwen Duan. IJCAI 2019. [paper]( https://dl.acm.org/doi/abs/10.5555/2832415.2832572)
 
 > feature extraction(**event embeddings for representing news documents**)
+
+**Forecasting stock market indexes using principle component analysis and stochastic time effective neural networks**. Jie Wang(BJTU), Jun Wang. Neurocomputing 2015. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231215000090)
+
+> input features(**Historical Prices**)
 
 **Genetic algorithms and Darwinian approaches in financial applications: A survey**. Rubén Aguilar-Rivera(ITESM), Manuel Valenzuela-Rendón, J.J. Rodríguez-Ortiz. Expert Systems with Applications 2015. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417415003954)
 
