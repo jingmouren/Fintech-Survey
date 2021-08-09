@@ -1,16 +1,32 @@
-# Stock-Prediction
+# Paper
 
---2020--
+--2021--
+
+**REST: Relational Event-driven Stock Trend Forecasting**. Wentao Xu(Sun Yat-sen University), Weiqing Liu(MSRA), Chang Xu(MSRA), Jiang Bian(MSRA), Jian Yin(Sun Yat-sen University), Tie-Yan Liu(MSRA). WWW 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3442381.3450032)
 
 **Applications of deep learning in stock market prediction: Recent progress**. Weiwei Jiang(THU). Expert Systems with Applications 2021. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417421009441)
 
 > Survey, Deep Learning
+
+--2020--
+
+**Multi-scale Two-way Deep Neural Network for Stock Trend Prediction**. Guang Liu(PingAn Life Insurance Company of China, Ltd.), Yuzhao Mao, Qi Sun, Hailong Huang, Weiguo Gao, Xuan Li, Jianping Shen, Ruifan Li, Xiaojie Wang. IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/0628)
+
+**Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction**. Qianggang Ding(THU), Sifan Wu, Hao Sun, Jiadong Guo, Jian Guo. IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/0640)
+
+**A Quantum-inspired Entropic Kernel for Multiple Financial Time Series Analysis**. Lu Bai, Lixin Cui, Yue Wang, Yuhang Jiao, Edwin R. Hancock. IJCAI 2020. [paper](https://www.ijcai.org/Proceedings/2020/0614)
+
+**Modeling the Stock Relation with Graph Network for Overnight Stock Movement Prediction**. Wei Li(PKU), Ruihan Bao, Keiko Harimoto, Deli Chen, Jingjing Xu, Qi Su. IJCAI 2020. [paper](https://www.ijcai.org/proceedings/2020/626)
 
 **Financial time series forecasting with deep learning : A systematic literature review: 2005–2019**. Omer Berat Sezer(TOBB ETÜ), Mehmet Ugur Gudelek, Ahmet Murat Ozbayoglu. Applied Soft Computing 2020. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494620301216)
 
 > Survey, financial instruments
 
 --2019--
+
+**Investment Behaviors Can Tell What Inside: Exploring Stock Intrinsic Properties for Stock Trend Prediction**. Chi Chen(THU), Li Zhao, Jiang Bian, Chunxiao Xing, Tie-Yan Liu. KDD 2019. [paper](https://dl.acm.org/doi/10.1145/3292500.3330663)
+
+**Individualized Indicator for All: Stock-wise Technical Indicator Optimization with Stock Embedding**. Zhige Li(SJTU), Derek Yang, Li Zhao, Jiang Bian, Tao Qin, Tie-Yan Liu. KDD 2019. [paper](https://dl.acm.org/doi/10.1145/3292500.3330833)
 
 **Multi-task Recurrent Neural Networks and Higher-order Markov Random Fields for Stock Price Movement Prediction: Multi-task RNN and Higer-order MRFs for Stock Price Classification**. Chang Li(University of Sydney), Dongjin Song, Dacheng Tao. KDD 2019. [paper](https://dl.acm.org/doi/10.1145/3292500.3330983)
 
@@ -27,6 +43,12 @@
 **CLVSA: A Convolutional LSTM Based Variational Sequence-to-Sequence Model with Attention for Predicting Trends of Financial Markets**. Jia Wang(University of Massachusetts Lowell), Tong Sun, Benyuan Liu, Yu Cao, Hongwei Zhu. IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0514)
 
 > input features(**Historical Prices**)
+
+**What You Say and How You Say It Matters: Predicting Stock Volatility Using Verbal and Vocal Cues**. Yu Qin(RUC), Yi Yang. ACL 2019. [paper](https://aclanthology.org/P19-1038/)
+
+**Exploring Graph Neural Networks for Stock Market Predictions with Rolling Window Analysis**. Daiki Matsunaga(IBM Japan), Toyotaro Suzumura, Toshihiro Takahashi. NeurIPS 2019. [paper](https://arxiv.org/abs/1909.10660)
+
+**Temporal Relational Ranking for Stock Prediction**. Fuli Feng(USTC), Xiangnan He, Xiang Wang, Cheng Luo, Yiqun Liu, Tat-Seng Chua. ACM TOIS 2019. [paper](https://dl.acm.org/doi/10.1145/3309547) [code](https://github.com/fulifeng/Temporal_Relational_Stock_Ranking)
 
 **Ensemble Application of Transfer Learning and Sample Weighting for Stock Market Prediction**. Simone Merello(University of Genova), Andrea Picasso Ratto, Luca Oneto, Erik Cambria. IEEE IJCNN 2019. [paper](https://ieeexplore.ieee.org/document/8851938)
 
@@ -400,7 +422,7 @@
 
 > input features(**Historical Prices**)
 
-**A dual-stage attention-based recurrent neural network for time series prediction**. Yao Qin(UCSD), Dongjin Song, Haifeng Cheng, Wei Cheng, Guofei Jiang, Garrison W. Cottrell. IJCAI 2017. [paper](https://dl.acm.org/doi/10.5555/3172077.3172254)
+**A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction**. Yao Qin(UCSD), Dongjin Song, Haifeng Cheng, Wei Cheng, Guofei Jiang, Garrison W. Cottrell. IJCAI 2017. [paper](https://dl.acm.org/doi/10.5555/3172077.3172254) [code](https://github.com/chensvm/A-Dual-Stage-Attention-Based-Recurrent-Neural-Network-for-Time-Series-Prediction)
 
 > input features(**Historical Prices**)
 
@@ -416,9 +438,9 @@
 
 > input features(**Historical Prices + Technical Indicators + Text**)
 
-**A deep learning framework for financial time series using stacked autoencoders and long-short term memory**. Wei Bao(Central South University), Jun Yue, Yulei Rao. PLOS ONE 2017. [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180944)
+**A deep learning framework for financial time series using stacked autoencoders and long-short term memory**. Wei Bao(Central South University), Jun Yue, Yulei Rao. PLOS ONE 2017. [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180944) [code](https://github.com/mlpanda/DeepLearning_Financial)
 
-> input features(**Historical Prices + Technical Indicators + Macroeconomics**)
+> input features(**Historical Prices + Technical Indicators + Macroeconomics**), denoising(wavelet transform)
 
 **Forecasting daily stock market return using dimensionality reduction**. Xiao Zhong(Missouri University of Science and Technology), David Enke. Expert Systems with Applications 2017. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417416305115)
 
@@ -488,15 +510,13 @@
 
 > extrinsic sources of data
 
-**A deep learning framework for financial time series using stacked autoencoders and long-short term memory**. Wei Bao(Central South University), Jun Yue, Yulei Rao. PLOS ONE 2017. [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180944)
-
-> denoising(wavelet transform)
-
 **Stacked Denoising Autoencoder Based Stock Market Trend Prediction via K-Nearest Neighbour Data Selection**.  Haonan Sun, Wenge Rong, Jiayi Zhang, Qiubin Liang, Zhang Xiong. ICONIP 2017. [paper](https://link.springer.com/chapter/10.1007/978-3-319-70096-0_90)
 
 > denoising(kNN-classififier), input features(**Historical Prices + Technical Indicators**)
 
 --2016--
+
+**Knowledge-Driven Event Embedding for Stock Prediction**. Xiao Ding(HIT), Yue Zhang, Ting Liu, Junwen Duan. COLING 2016. [paper](https://aclanthology.org/C16-1201/)
 
 **Integrating metaheuristics and Artificial Neural Networks for improved stock price prediction**. Mustafa Göçken(Adana Science and Technology University), Mehmet Özçalıcı, Aslı Boru, Ayşe Tuğba Dosdoğru. Expert Systems with Applications 2016. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417415006570)
 
@@ -520,7 +540,7 @@
 
 > input features(**Historical Prices + Technical Indicators + Fundamental + Macroeconomics**)
 
-**Predicting stock market index using fusion of machine learning techniques**. Jigar Patel, Sahil Shah(Nirma University), Priyank Thakkar, K Kotecha. Expert Systems with Applications 2015. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417414006551)
+**Predicting stock market index using fusion of machine learning techniques**. Jigar Patel(Nirma University), Sahil Shah, Priyank Thakkar, K Kotecha. Expert Systems with Applications 2015. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417414006551) [code](https://github.com/SaloniJaiswal30/Predicting-stock-market-index-using-fusion-of-machine-learning-techniques)
 
 > input features(**Historical Prices + Technical Indicators**)
 
