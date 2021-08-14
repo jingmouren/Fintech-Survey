@@ -80,7 +80,7 @@
 
 **Global Stock Market Prediction Based on Stock Chart Images Using Deep Q-Network**. Jinho Lee(Korea University), Raehyun Kim, Yookyung Koh, Jaewoo Kang. IEEE Access 2019. [paper](https://ieeexplore.ieee.org/document/8901118)
 
-> input features(**Image**), feature normalization(**Min0Max1**)
+> input features(**Image**), feature normalization(**Min0Max1**), trading strategy baseline(**momentum stategy, MACD**)
 
 **Is Deep Learning for Image Recognition Applicable to Stock Market Prediction?**. Hyun Sik Sim(Kyonggi University), Hae In Kim, Jae Joon Ahn. Complexity 2019. [paper](https://www.hindawi.com/journals/complexity/2019/4324878/)
 
@@ -120,7 +120,7 @@
 
 **A study on novel filtering and relationship between input-features and target-vectors in a deep learning model for stock price prediction**. Yoojeong Song(Sookmyung Women’s University), Jae Won Lee, Jongwoo Lee. Applied Intelligence 2019. [paper](https://link.springer.com/article/10.1007%2Fs10489-018-1308-x)
 
-> input features(**Historical Prices + Technical Indicators**)
+> input features(**Historical Prices + Technical Indicators**), prediction model(**DNN**), baselines(**DNN**)
 
 **A Dual-Attention-Based Stock Price Trend Prediction Model With Dual Features**. Yingxuan Chen(South China University of Technology), Weiwei Lin, James Z. Wang. IEEE Access 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8862810)
 
@@ -176,7 +176,7 @@
 
 **A deep increasing–decreasing-linear neural network for financial time series prediction**. Ricardo de A. Araújo(Instituto Federal do Sertão Pernambucano), Nadia Nedjah, Adriano L.I. Oliveira, Silvio R. de L. Meira. Neurocomputing 2019. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231219303194)
 
-> input features(**Historical Prices**), feature normalization(**Min0Max1**)
+> input features(**Historical Prices**), feature normalization(**Min0Max1**), prediction model(**DIDLNN**), baselines(**ARIMA, SVM, MLP, LNNN, DEM, DMN, NARXT, PELMNN**)
 
 **Stock price forecasting model based on modified convolution neural network and financial time series analysis**. Jiasheng Cao(USTC), Jinghan Wang. International Journal of Communication Systems 2019. [paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.3987)
 
@@ -318,7 +318,7 @@
 
 **Predicting the direction of stock markets using optimized neural networks with Google Trends**. Hongping Hu(North University of China), Li Tang, Shuhua Zhang, Haiyan Wang. Neurocomputing 2018. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231218300572)
 
-> input features(**Historical Prices + Text**), feature normalization(**Min0Max1**)
+> input features(**Historical Prices + Text**), feature normalization(**Min0Max1**), prediction model(**ISCABPNN**), baselines(**BPNN, GWO-BPNN, PSO-BPNN, WOA-BPNN, SCA-BPNN**)
 
 **Hybrid Deep Sequential Modeling for Social Text-Driven Stock Prediction**. Huizhe Wu(East China Normal University), Wei Zhang, Weiwei Shen, Jun Wang. ACM CIKM 2018. [paper](https://dl.acm.org/doi/10.1145/3269206.3269290) [dataset](https://pan.baidu.com/s/1vGRyAUfW-wY_Nz00xuCM-g)(code: khc7)
 
@@ -414,7 +414,7 @@
 
 **Algorithmic financial trading with deep convolutional neural networks: Time series to image conversion approach**. Omer Berat Sezer(TOBB University of Economics and Technology), Ahmet Murat Ozbayoglu. Applied Soft Computing 2018. [paper](https://www.sciencedirect.com/science/article/abs/pii/S1568494618302151) [code](https://github.com/nayash/stock_cnn_blog_pub)
 
-> feature extraction(technical indicator to build **image inputs**), input features(**Image**), feature normalization(**Min-1Max1**)
+> feature extraction(technical indicator to build **image inputs**), input features(**Image**), feature normalization(**Min-1Max1**), trading strategy baseline(**Buy&Hold Strategy, momentum stategy RSI and MSA**)
 
 **Deep Learning Approach for Short-Term Stock Trends Prediction Based on Two-Stream Gated Recurrent Unit Network**. Dang Lien Minh(Sejong University), Abolghasem Sadeghi-Niaraki, Huynh Duc Huy, Kyungbok Min, Hyeonjoon Moon. IEEE Access 2018. [paper](https://ieeexplore.ieee.org/document/8456512)
 
@@ -452,11 +452,11 @@
 
 **Forecasting daily stock market return using dimensionality reduction**. Xiao Zhong(Missouri University of Science and Technology), David Enke. Expert Systems with Applications 2017. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417416305115)
 
-> input features(**Historical Prices + Technical Indicators + Macroeconomics**), dimensionality reduction(**PCA-ANN**, FRPCA, KPCA)
+> input features(**Historical Prices + Technical Indicators + Macroeconomics**), dimensionality reduction(**PCA-ANN**, FRPCA, KPCA), prediction model(**PCA+ANN**), baselines(**N/A**)
 
 **Financial Time Series Forecasting – A Deep Learning Approach**. Alexiei Dingli(University of Malta), Karl Sant Fournier. Int. J. Mach. Learn. Comput 2017. [paper](http://www.ijmlc.org/vol7/632-P17.pdf)
 
-> input features(**Historical Prices + Technical Indicators + Macroeconomics**)
+> input features(**Historical Prices + Technical Indicators + Macroeconomics**), prediction model(**CNN**), baselines(**Logit, SVM**)
 
 **A New Model for Stock Price Movements Prediction Using Deep Neural Network**. Huy D. Huynh(University of IT - VNU HCMC), L. Minh Dang, Duc Duong. ACM SoICT 2017. [paper](https://dl.acm.org/doi/10.1145/3155133.3155202)
 
@@ -472,11 +472,11 @@
 
 **Stock prediction using deep learning**. Ritika Singh(Indian School of Mines), Shashi Srivastava. Multimedia Tools and Applications 2017. [paper](https://link.springer.com/article/10.1007%2Fs11042-016-4159-7)
 
-> input features(**Historical Prices + Technical Indicators**), dimensionality reduction(**PCA**), feature normalization(**Min0Max1**)
+> input features(**Historical Prices + Technical Indicators**), dimensionality reduction(**PCA**), feature normalization(**Min0Max1**), prediction model(**(2D)2PCA+RBFNN**), baselines(**RBFNN, RNN**)
 
 **A Double-Layer Neural Network Framework for High-Frequency Forecasting**. Hao Chen(Stony Brook University), Keli Xiao, Jinwen Sun, Song Wu. ACM TMIS 2017. [paper](https://dl.acm.org/doi/10.1145/3021380)
 
-> input features(**Historical Prices + Technical Indicators**)
+> input features(**Historical Prices + Technical Indicators**), prediction model(**DNN**), baselines(**ARMA-GARCH, ARMAX-GARCH, ANN**)
 
 **Intraday prediction of Borsa Istanbul using convolutional neural networks and feature correlations**. Hakan Gunduz(Istanbul Technical University), Yusuf Yaslan, Zehra Cataltepe. ACM Knowledge-Based Systems 2017. [paper](https://dl.acm.org/doi/10.1016/j.knosys.2017.09.023)
 
@@ -484,7 +484,7 @@
 
 **Deep learning networks for stock market analysis and prediction: Methodology, data representations, and case studies**. Eunsuk Chong(Seoul National University), Chulwoo Han, Frank C. Park. Expert Systems with Applications 2017. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417417302750)
 
-> input features(**Historical Prices**), dimensionality reduction(**PCA, autoencoder, restricted Boltzmann machine**)
+> input features(**Historical Prices**), dimensionality reduction(**PCA, autoencoder, restricted Boltzmann machine**), prediction model(**DNN**), baselines(**AR**)
 
 **Data Augmentation Based Stock Trend Prediction Using Self-organising Map**. Jiayi Zhang(BUAA), Wenge Rong, Qiubin Liang, Haonan Sun, Zhang Xiong. International Conference on Neural Information Processing 2017. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-70096-0_92)
 
@@ -520,7 +520,7 @@
 
 **Stacked Denoising Autoencoder Based Stock Market Trend Prediction via K-Nearest Neighbour Data Selection**.  Haonan Sun, Wenge Rong, Jiayi Zhang, Qiubin Liang, Zhang Xiong. ICONIP 2017. [paper](https://link.springer.com/chapter/10.1007/978-3-319-70096-0_90)
 
-> denoising(kNN-classififier), input features(**Historical Prices + Technical Indicators**)
+> denoising(kNN-classififier), input features(**Historical Prices + Technical Indicators**), prediction model(**Stacked Denoising Autoencoder**), baselines(**SVM, Logit, ANN**)
 
 --2016--
 
@@ -528,7 +528,7 @@
 
 **Integrating metaheuristics and Artificial Neural Networks for improved stock price prediction**. Mustafa Göçken(Adana Science and Technology University), Mehmet Özçalıcı, Aslı Boru, Ayşe Tuğba Dosdoğru. Expert Systems with Applications 2016. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417415006570)
 
-> input features(**Historical Prices + Technical Indicators**)
+> input features(**Historical Prices + Technical Indicators**), prediction model(**HM-ANN**), baselines(**ANN, GA-ANN**)
 
 **Computational Intelligence and Financial Markets: A Survey and Future Directions**. Rodolfo C. Cavalcante(UFAL), Rodrigo C. Brasileiro, Victor L.F. Souza, Jarley P. Nobrega, Adriano L.I. Oliveira. Expert Systems with Applications 2016. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095741741630029X)
 
@@ -542,7 +542,7 @@
 
 **Deep learning for event-driven stock prediction**. Xiao Ding(HIT), Yue Zhang, Ting Liu, Junwen Duan. IJCAI 2015. [paper]( https://dl.acm.org/doi/abs/10.5555/2832415.2832572)
 
-> feature extraction(**event embeddings for representing news documents**), input features(**Text**)
+> feature extraction(**event embeddings for representing news documents**), input features(**Text**), prediction model(**DNN**), baselines(**BoW+SVM, structed event tuple+ANN**)
 
 **Evaluating multiple classifiers for stock price direction prediction**. Michel Ballings(The University of Tennessee), Dirk Van den Poel, Nathalie Hespeels, Ruben Gryp. Expert Systems with Applications 2015. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417415003334)
 
@@ -554,25 +554,31 @@
 
 **Forecasting stock market indexes using principle component analysis and stochastic time effective neural networks**. Jie Wang(BJTU), Jun Wang. Neurocomputing 2015. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231215000090)
 
-> input features(**Historical Prices**), dimensionality reduction(**PCA**), feature normalization(**Min0Max1**)
+> input features(**Historical Prices**), dimensionality reduction(**PCA**), feature normalization(**Min0Max1**), prediction model(**PCA+STNN**), baselines(**BPNN, PCA+BPNN, STNN**)
 
 **Genetic algorithms and Darwinian approaches in financial applications: A survey**. Rubén Aguilar-Rivera(ITESM), Manuel Valenzuela-Rendón, J.J. Rodríguez-Ortiz. Expert Systems with Applications 2015. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417415003954)
 
 > Survey, evolutionary computation methods
 
+--2014--
+
+**Using Structured Events to Predict Stock Price Movement: An Empirical Investigation**. Xiao Ding(HIT), Yue Zhang, Ting Liu, Junwen Duan. EMNLP 2014. [paper](https://aclanthology.org/D14-1148/)
+
+> prediction model(**DNN**), baselines(**SVM**)
+
 --2013--
 
 **Forecasting S&P 500 index using artificial neural networks and design of experiments**. Seyed Taghi Akhavan Niaki(Sharif University of Technology), Saeid Hoseinzade.  Journal of Industrial Engineering International 2013. [paper](https://link.springer.com/article/10.1186/2251-712X-9-1)
 
-> input features(**Historical Prices + Technical Indicators + Fundamental + Macroeconomics**), dimensionality reduction(**ANOVA**)
+> input features(**Historical Prices + Technical Indicators + Fundamental + Macroeconomics**), dimensionality reduction(**ANOVA**), trading strategy baseline(**Buy&Hold Strategy**), prediction model(**ANN**), baselines(**Logit, Buy&Hold Strategy**)
 
 **Applying Artificial Neural Networks to prediction of stock price and improvement of the directional prediction index – Case study of PETR4, Petrobras, Brazil**. Fagner A. de Oliveira(Pontifical Catholic University of Minas Gerais), Cristiane N. Nobre, Luis E. Zárate. Expert Systems with Applications 2013. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417413004703)
 
-> input features(**Historical Prices + Technical Indicators + Macroeconomics**)
+> input features(**Historical Prices + Technical Indicators + Macroeconomics**), prediction model(**ANN**), baselines(**N/A**)
 
 **A Bayesian regularized artificial neural network for stock market forecasting**. Jonathan L. Ticknor(Duke). Expert Systems with Applications 2013. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417413002509)
 
-> input features(**Historical Prices + Technical Indicators**), feature normalization(**Min-1Max1**)
+> input features(**Historical Prices + Technical Indicators**), feature normalization(**Min-1Max1**), prediction model(**DNN**), baselines(**ARIMA**)
 
 --2010--
 
